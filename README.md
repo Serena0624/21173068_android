@@ -18,3 +18,7 @@
 <img width="" height="" src="./pic/6st_2.PNG"></img>
 <img width="" height="" src="./pic/6st_3.PNG"></img>
 <img width="" height="" src="./pic/6st_4.PNG"></img>
+
+## 10주차 (2022-05-10)
+<img width="" height="" src="./pic/10주차1.jpg"></img>
+<img width="" height="" src="./pic/10주차2.jpg"></img>
